@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d9f77ef-4b34-4741-a656-069d9e3735be" name="Changes" comment="added getSum class, which returns sum of numbers between">
-      <change afterPath="$PROJECT_DIR$/src/com/coderBros/MinQueueData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/coderBros/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/coderBros/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coderBros/GetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coderBros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coderBros/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="6d9f77ef-4b34-4741-a656-069d9e3735be" name="Changes" comment="added getSum class, which returns sum of numbers between" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645297604139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added getSum class, which returns sum of numbers between">
+      <created>1645725108648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645725108648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
